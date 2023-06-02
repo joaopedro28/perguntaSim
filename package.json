@@ -1,5 +1,5 @@
 {
-  "name": "vailiberar",
+  "name": "sitepergunta",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,7 +8,9 @@
   ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "devGulp": "gulp watch"
+    "devGulp": "gulp watch",
+    "start": "index.html"
+
   },
   "author": "",
   "license": "ISC",
